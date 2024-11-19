@@ -1,5 +1,5 @@
-# hexlet-my-first-workflow
-![hello workflow](https://github.com/kozlyatinka/hexlet-my-first-workflow/actions/workflows/main.yml/badge.svg)
+# hexlet-ci-app
+![ci-app](https://github.com/kozlyatinka/hexlet-ci-app/actions/workflows/main.yml/badge.svg)
 
 # Example app for CI Hexlet course
 
